@@ -3,14 +3,15 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Anjali Sahani</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt = "coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>
+<img align="right" alt = "coding"  width="370" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali77529&label=Profile%20views&color=0e75b6&style=flat" alt="anjali77529" /> </p>
 
 - 🔭 I’m currently working on **School Management Project**
 
   
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
+
+-  🌱 I’m currently learning MySQl
 
 - ⚡ Fun fact: I use tabs over spaces  
 
@@ -62,7 +63,7 @@
 
 </td></tr></table>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali77529&show_icons=true&locale=en&layout=compact" alt="anjali77529" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedantadebendra&show_icons=true&locale=en&layout=compact" alt="bedantadebendra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali77529&show_icons=true&locale=en" alt="anjali77529" /></p>
 
