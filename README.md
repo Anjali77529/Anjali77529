@@ -3,7 +3,7 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Anjali Sahani</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt = "coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>>
+<img align="right" alt = "coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali77529&label=Profile%20views&color=0e75b6&style=flat" alt="anjali77529" /> </p>
 
 - 🔭 I’m currently working on **School Management Project**
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjalisahani840@gmail.com**
 
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anjali-sahani-475822251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anjali-sahani-475822251" height="30" width="40" /></a>
 <a href="https://instagram.com/__sahani_kanak9793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sahani_kanak9793" height="30" width="40" /></a>
